@@ -93,7 +93,7 @@ It integrates concepts from multiple courses, such as:
 
 - Dataset by [Palmer Station Antarctica LTER](https://pal.lternet.edu/)
 - Art by [Allison Horst](https://github.com/allisonhorst)
-- Project inspired by DataCamp coursework
+- Project by DataCamp
 
 ---
 
